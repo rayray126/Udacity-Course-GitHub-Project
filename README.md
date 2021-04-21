@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Date created
 21st April, 2021
 
