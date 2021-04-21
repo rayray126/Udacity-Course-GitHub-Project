@@ -18,6 +18,7 @@ def get_filters():
     """
 
     print('\nHello! Let\'s explore some US bikeshare data!')
+    print("\n Washington Data Lacks User Statistics At the End")
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
@@ -173,6 +174,8 @@ def trip_duration_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('*'*100)
+
+
 
 
 def user_stats(df):
