@@ -5,7 +5,7 @@
 Post Your Work on GitHub  
 
 ### Description
-Posting Project 2 on GitHub
+Posting Project 2 on GitHub. This was started by Forking Repo on Udacity and Cloning to my Local Repository
 
 ### Files used
 1. The following file contains necessary commands used to do tasks:
