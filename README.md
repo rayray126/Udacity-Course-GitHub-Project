@@ -57,5 +57,3 @@ Through writing code, I'm able to answer the following questions about the bike 
 - What are the counts of gender?
 - What is the earliest birth year (when the oldest person was born), most recent birth year, and most common birth year?
 
->>>>>>> 520386116fb65de5be25bb08f5d48d56fe08e339
-
